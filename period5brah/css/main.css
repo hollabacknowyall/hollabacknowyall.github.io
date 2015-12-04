@@ -1,3 +1,22 @@
 p{
-	color: red;
+	color: #552700;
 }
+
+body {
+	
+	font-size: 14px;
+	background-color: #86c98A;
+}
+
+h1 {
+	color: #061539;
+	text-align: center;
+	border-style: dashed;
+	border-width: 4px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	background-color: #7887ab;
+}
+
