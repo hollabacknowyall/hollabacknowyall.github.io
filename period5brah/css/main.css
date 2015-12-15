@@ -60,6 +60,12 @@ nav ul li a:hover{
 	margin-right:auto;
 }
 
+.imgright{
+	float: right;
+	padding:15px;
+	max-width: 50%;
+}
+
 img{
 	padding-bottom: 50px;
 }
