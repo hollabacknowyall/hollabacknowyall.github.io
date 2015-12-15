@@ -68,4 +68,16 @@ p{
 	}
 }
 
+.imgright{
+	float: right;
+	padding: 15px;
+	max-width: 50%;
+}
+
+.imgleft{
+	float: left;
+	padding: 15px;
+	max-width: 50%;
+}
+
 
